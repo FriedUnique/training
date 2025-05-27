@@ -3,8 +3,8 @@
 ## PB
 | Lift | Rep | Weight | Date
 |-------|-----|------|--------|
-| Pull Ups | 2 | 40kg | 10.05.2025 (night, after work)
-| Dips | 2 | 40kg + | 12.05.2025
+| Pull Ups | 2 | 40kg | 10.05.2025
+| Dips | 2 | 40kg + | 12.05.2025 (night, after work)
 
 
 ## Pull
@@ -13,7 +13,7 @@
 |-------|-----|---------|
 | Pull Ups | 3x5 | 30kg + |
 | Lat Pull Down | 3x5 | 100kg + |
-| Lat Pull Overs | 3x5 | 75kg |
+| Lat Pull Overs | 3x5-8 | 75kg |
 | Seated One Arm Rows | 2x5-8 | 80kg |
 | Preacher Curls | 2x5-8 | 60kg |
 | Lateral Raises | 2x5-8 | 22.5kg |
