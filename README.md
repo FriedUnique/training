@@ -27,6 +27,7 @@
 | Smith Incline | - | - |
 | Tricep Single Arm Pushdown | 2x5-8 | 27kg |
 | Skullies | 2x5-8 | 45kg + |
+| Over Head Press | 2x5 | 45kg |
 
 
 ## Legs
