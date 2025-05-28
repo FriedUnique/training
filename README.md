@@ -22,8 +22,8 @@
 
 | Lift | Set x Rep | Weight |
 |-------|-----|---------|
-| Dips | 3x5 | 35kg |
-| Pec Dec | 2x5-8 | - |
+| Dips | 2x3-5 | 35kg |
+| Pec Dec | 2x5-8 | 80kg |
 | Smith Incline | - | - |
 | Tricep Single Arm Pushdown | 2x5-8 | 27kg |
 | Skullies | 2x5-8 | 45kg + |
