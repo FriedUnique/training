@@ -11,7 +11,7 @@
 
 | Lift | Set x Rep | Weight |
 |-------|-----|---------|
-| Pull Ups | 3x5 | 30kg + |
+| Pull Ups | 3x3 | 35kg |
 | Lat Pull Down | 3x5 | 100kg + |
 | Lat Pull Overs | 3x5-8 | 75kg |
 | Seated One Arm Rows | 2x5-8 | 80kg |
