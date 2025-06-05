@@ -26,7 +26,7 @@
 | Pec Dec | 2x5-8 | 80kg |
 | Smith Incline | - | - |
 | Tricep Single Arm Pushdown | 2x5-8 | 27kg |
-| Skullies | 2x5-8 | 45kg + |
+| Skullies | 2x5 | 50kg |
 | Over Head Press | 2x5 | 45kg |
 
 
