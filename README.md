@@ -3,7 +3,8 @@
 ## PB
 | Lift | Rep | Weight | Date
 |-------|-----|------|--------|
-| Pull Ups | 2 | 40kg | 10.05.2025
+| Pull Ups | 1 | 50kg | 06.06.2025
+| Pull Ups | 3 | 40kg | 06.06.2025
 | Dips | 2 | 40kg + | 12.05.2025 (night, after work)
 
 
