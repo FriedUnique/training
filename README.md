@@ -15,7 +15,7 @@
 | Pull Ups | 3x4 | 35kg |
 | Lat Pull Down | 3x5 | 100kg + |
 | Lat Pull Overs | 3x5-8 | 75kg |
-| Seated One Arm Rows | 2x5-8 | 80kg |
+| Seated One Arm Rows | 2x5-8 | 85kg |
 | Preacher Curls | 2x5-8 | 60kg |
 | Lateral Raises | 2x5-8 | 22.5kg |
 
